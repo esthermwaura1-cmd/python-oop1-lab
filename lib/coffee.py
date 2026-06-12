@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-
-class Coffee:
-    pass#!/usr/bin/env python3
-
 class Coffee:
     def init(self, size, price):
         """Initialize a Coffee with size and price."""

@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 
 class Book:
-    pass#!/usr/bin/env python3
-
-class Book:
     def init(self, title, page_count):
         """Initialize a Book with a title and page count."""
         self.title = title
